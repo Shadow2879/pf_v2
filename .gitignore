@@ -1,0 +1,8 @@
+/lightning_logs
+/__pycache__
+/data_dir
+.env
+dataReader.ipynb
+tf_classes.py
+gen_csv.py
+live_predict.py
